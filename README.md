@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettypain&layout=Demo&theme=dark)
 
- <img src="http://mazandi.herokuapp.com/api?handle={jkungjk117}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=jkungjk117&theme=warm"/>
